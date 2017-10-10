@@ -1,3 +1,6 @@
+A customizable calendar for users to track their breakfast, lunch, and dinner through the week. Users will leverage Edamam's Recipe Search API to add meals, then generate a shopping list of ingredients based on the meals chosen.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
